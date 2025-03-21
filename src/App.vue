@@ -1,15 +1,12 @@
+<template>
+<router-view></router-view>
+</template>
+
 <script lang="ts" setup>
 
 </script>
-
-<template>
- <div>
-
- </div>
-
-</template>
-
-
-<style scoped>
-
+<style scoped lang="scss">
+.test{
+  color:$priceColor;
+}
 </style>
